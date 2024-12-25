@@ -2,5 +2,4 @@
 Welcome to my project repository.
 
 ## Website
-Visit my GitHub Pages website: [Click Here](https://puru999.github.io/my-repo/)
-
+Visit my GitHub Pages website: https://puru999.github.io/My-website/
