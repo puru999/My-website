@@ -1,8 +1,6 @@
 # My Project
 Welcome to my project repository.
 
-## About
-This project is designed to ...
+## Website
+Visit my GitHub Pages website: [Click Here](https://puru999.github.io/my-repo/)
 
-## My Website
-Visit my website: [www.linkedin.com/in/puru1010](https://www.linkedin.com/in/puru1010)
